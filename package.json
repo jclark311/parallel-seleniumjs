@@ -1,0 +1,26 @@
+{
+  "name": "parallel-seleniumjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclark311/parallel-seleniumjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jclark311/parallel-seleniumjs/issues"
+  },
+  "homepage": "https://github.com/jclark311/parallel-seleniumjs#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "mocha": "^3.2.0",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
